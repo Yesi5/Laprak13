@@ -1,0 +1,2 @@
+File teks kedua ini juga mengandung kata-kata yang sama.
+Beberapa kata muncul di kedua file, tetapi ada juga kata-kata unik.
